@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://recinge.github.io/sitemap.html.gz
+Sitemap: https://recinge.github.io/app/sitemap.html.gz
+Sitemap: https://recinge.github.io/assets/sitemap.html.gz
+Sitemap: https://recinge.github.io/css/sitemap.html.gz
+Sitemap: https://recinge.github.io/data/sitemap.html.gz
+Sitemap: https://recinge.github.io/includes/sitemap.html.gz
+Sitemap: https://recinge.github.io/item/sitemap.html.gz
+Sitemap: https://recinge.github.io/src/sitemap.html.gz
